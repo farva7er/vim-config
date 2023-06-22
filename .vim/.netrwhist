@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/farvater/totem/assets'
+let g:netrw_dirhist_7='/home/farvater/.vim/bundle/vim-compiler-plugin-for-dotnet'
+let g:netrw_dirhist_6='/home/farvater/idweb.lab/lab.git/Laborator-1'
+let g:netrw_dirhist_5='/home/farvater/.vim'
+let g:netrw_dirhist_4='/home/farvater/opengl/learnopengl/dependecies/glfw-3.3.4/CMake'
+let g:netrw_dirhist_3='/home/farvater/.config/zsh'
+let g:netrw_dirhist_2='/home/farvater/.config/shell'
+let g:netrw_dirhist_1='/home/farvater/.local/src/st'
